@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emmasaraha
-- 🌱 I’m currently studying for my MA in Web Design & Content Planning at the University of Greenwich. 
+- 🌱 I'm currently a junior interaction designer at FutureGov. 
 - 👀 You can find my portfolio at emmasaraha.co.uk
 
 <!---
