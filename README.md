@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emmasaraha
-- 🌱 I'm currently a junior interaction designer at FutureGov. 
+- 🌱 I'm an interaction designer at TPXimpact. 
 - 👀 You can find my portfolio at emmasaraha.co.uk
 
 <!---
